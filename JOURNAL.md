@@ -15,7 +15,7 @@
 ## Contents
 
 1. [2026-10-25 – I made the schematics and footprints for the synthesizer which includes the 8 keys, a headphone jack and speaker option, and some dials to edit the sound played (volume, octave, etc.) I decided to use](#2026-10-25-i-made-the-schematics-and-footprints-for-the-synt)
-2. [2026-10-25 – I finished the pcb design and the code. For the code, I didn't realize there is external installation for hackatime to track Arduino so I didn't get time tracked for it because of that. I have attache](#2026-10-25-i-finished-the-pcb-design-and-the-code-for-the-co)
+2. [2026-10-25 – I finished the pcb design and the code. For the code, I didn't realize there is external installation for hackatime to track Arduino until after my firmware was finished, so I didn't get time tracked](#2026-10-25-i-finished-the-pcb-design-and-the-code-for-the-co)
 
 ## Design
 
@@ -31,10 +31,14 @@ I made the schematics and footprints for the synthesizer which includes the 8 ke
 
 [Timelapse](https://lookout.hackclub.com/api/media/5ae514d3-eec1-4263-afc4-14ba080fd0d1/video.mp4)
 
-### 2026-10-25 – I finished the pcb design and the code. For the code, I didn't realize there is external installation for hackatime to track Arduino so I didn't get time tracked for it because of that. I have attache
+### 2026-10-25 – I finished the pcb design and the code. For the code, I didn't realize there is external installation for hackatime to track Arduino until after my firmware was finished, so I didn't get time tracked
 
 **1.75h**
 
-I finished the pcb design and the code. For the code, I didn't realize there is external installation for hackatime to track Arduino so I didn't get time tracked for it because of that. I have attached a screenshot of the code to help show, and it took about an hour to write.
+I finished the pcb design and the code. For the code, I didn't realize there is external installation for hackatime to track Arduino until after my firmware was finished, so I didn't get time tracked for it because of that. I have attached a screenshot of the code to help show (its very small because I tried to fit it all in 1 image), which
+
+![Screenshot 2026-10-25 at 8.43.46 PM](https://halflife.hackclub-assets.com/sessions/e435oI7m9doNgKYx7YcRg1t49EKokN00/188f0373f946974a62e3f2dd864766f93b1096717c5ab9f2c8f17162a33c942c.png)
+
+ took about an hour to write.
 
 [Timelapse](https://lookout.hackclub.com/api/media/dc8085f2-2e9d-49ff-85b7-3b94bf62a775/video.mp4)
