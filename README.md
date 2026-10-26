@@ -1,3 +1,4 @@
+<img width="920" height="1183" alt="Screenshot 2026-10-25 at 8 53 11 PM" src="https://github.com/user-attachments/assets/0bbbc64c-9c62-4c59-a795-f11f5bfb0f8d" />
 # Half-Life-Week-3
 Miniature synthesizer project
 For this project, I have decided to make a miniature synthesizer powered by a Raspberry Pi Zero.
